@@ -1,1 +1,1 @@
-bash scripts
+respository for writting bash scripts
