@@ -20,4 +20,8 @@ file 9 for changing mode of a file
 
 file 10 for changing mode of hello to that of olleh
 
+file 11 for adding execute permissions to all sub directories in current working directory for owner group and user
 
+file 12 for creating a directory with permissions 751
+
+file 13 for changing group owner for file hello to school
